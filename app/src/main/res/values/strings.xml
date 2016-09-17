@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialogo</string>
+    <string name="hello">Esto es un Dialogo!</string>
+    <string name="ejemplo">Ejemplo diálogo simple</string>
+    <string name="mostrar">Mostrar el dialogo</string>
+
+</resources>
